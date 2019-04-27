@@ -2,7 +2,8 @@
 原地址：`https://github.com/chanshengzhi/UEditor-for-Typecho`
 
 安装方法：<br>
-下载压缩包，然后将`UEditor`文件夹全部上传到Typecho插件目录即可
+下载压缩包 https://github.com/Chennhaoo/UEditor-for-Typecho/releases <br>
+然后将`UEditor`文件夹全部上传到Typecho插件目录即可
 
 配置文件：<br>
 `\UEditor\ueditor\php\config.json`
