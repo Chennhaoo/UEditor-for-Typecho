@@ -3,9 +3,9 @@
  * 为Typecho启用UEditor编辑器(支持云存储)
  *
  * @package UEditor for Typecho
- * @author 陈盛智_ChennHAOO
+ * @author 陈盛智
  * @version 2018_MOD
- * @link http://chensz.com
+ * @link https://github.com/Chennhaoo/UEditor-for-Typecho
  * Date: 2017-12-31
  * Time: 03:50:05
  */
